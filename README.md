@@ -27,7 +27,7 @@ The dataset contains the following features:
 ## 🖥️ GUI
 A simple GUI using Tkinter allows user to input values and get predictions.
 
-<img src="gui1.PNG" width="500">
+<img src="gui1.png" width="500">
 
 ## 🧪 How to Run
 1. Clone the repository:
