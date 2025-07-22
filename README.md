@@ -58,7 +58,8 @@ A machine learning project that predicts the presence of heart disease using a v
 
 ## 🖼️ Sample Output Screenshot
 
-![Heart Disease Prediction_GUI](Screeshots/gui1.png)
+![Heart Disease Prediction_GUI](Screenshots/gui1.png)
+![Model Comparisn](Screenshots/best_model.png)
 ---
 
 ## 💻 Run Locally
